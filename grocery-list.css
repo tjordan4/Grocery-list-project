@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color: bisque;
+}
+
+.subtitle {
+    border: 2px solid black;
+    background-color: grey;
+    display: inline-block;
+}
+
+.title-containter {
+    text-align: center;
+}
+.Container {
+    display: flex;
+    gap: 10px;
+}
+
+ .card {
+    background-color: rgb(red, green, blue);
+    border: 2px solid black;
+    width: 500px;
+} 
+
+img {
+    width: 300px;
+}
+
