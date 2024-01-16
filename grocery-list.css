@@ -1,6 +1,6 @@
 h1 {
     text-align: center;
-    color: bisque;
+    color: rgb(29, 83, 67);
 }
 
 .subtitle {
@@ -18,12 +18,17 @@ h1 {
 }
 
  .card {
-    background-color: rgb(red, green, blue);
+    background-color: gold;
     border: 2px solid black;
     width: 500px;
+
 } 
 
 img {
     width: 300px;
+    padding: 5px 5px 5px 5px
 }
 
+body {
+    background-color: rgb(63, 216, 63);
+}
